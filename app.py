@@ -53,7 +53,7 @@ def home():
             <h1>CloudXeus Customer Portal</h1>
 
             <p>
-                Welcome to our sample Python application running with FastAPI.
+                Welcome to the end.
             </p>
 
             <p>
