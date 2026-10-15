@@ -50,7 +50,7 @@ def home():
 
     <body>
         <div class="container">
-            <h1>CloudXeus Customer Portal</h1>
+            <h1>Kikijev test</h1>
 
             <p>
                 Welcome to the end.
